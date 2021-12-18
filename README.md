@@ -1,0 +1,2 @@
+# MS-Stenography-Tool
+MS Stenography Tool created for encryption vs. hiding your data in Microsoft Office Documents. The structure of the documents is not violated! WARNING! If you will change encrypted document in MS Office then hidden encrypted information will be vanished! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
