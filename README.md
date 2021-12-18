@@ -31,5 +31,30 @@ python3 -m pip install -r requirements.txt
 
 python3 MSST.py
 
+@@@@@@@@@@@@@@@@@@@@@@@@@
+
+How to fix ModuleNotFoundError:Tkinter
+
+python3 -m pip install tk-tools
+
+or
+
+sudo apt-get install python3-tk
+
+@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+# Build package for Linux Pyinstaller
+
+cd MS-Stenography-Tool
+
+pyinstaller MSST.py -P
+
+cd dist
+
+chmod 777 MSST
+
+./MSST
+
 # Example
 ![demonstr(1)](https://user-images.githubusercontent.com/34070575/146655520-550919ae-6998-43c8-8c32-d8c885c737b3.gif)
