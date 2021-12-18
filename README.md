@@ -31,8 +31,6 @@ python3 -m pip install -r requirements.txt
 
 python3 MSST.py
 
-@@@@@@@@@@@@@@@@@@@@@@@@@
-
 How to fix ModuleNotFoundError:Tkinter
 
 python3 -m pip install tk-tools
@@ -40,8 +38,6 @@ python3 -m pip install tk-tools
 or
 
 sudo apt-get install python3-tk
-
-@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 # Build package for Linux Pyinstaller
