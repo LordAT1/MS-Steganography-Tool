@@ -9,6 +9,6 @@
 
 
 ## Reporting a Vulnerability
-You can sand any report in my telegram. Thanks.
+You can send any report in my telegram. Thanks.
 
 Telegram: https://t.me/LordAT1
