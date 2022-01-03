@@ -46,7 +46,7 @@ layout = [
     [sg.Frame('Progress',layout= progressbar)],
     [sg.Button("Encrypt and Hide"), sg.Button('Decrypt and Show'), sg.Button('About'),sg.Cancel("Exit")]
 ]
-window = sg.Window('MS Stenography Tool by LordAT1', layout)
+window = sg.Window('MS Steganography Tool by LordAT1', layout)
 progress_bar = window['progressbar']
 while True:
     try:
@@ -150,7 +150,7 @@ while True:
                 progress_bar.UpdateBar(0)
                 sg.popup("File "+nn+ " extracted!")
         if event == 'About':
-                l=[[sg.Text('MS Stenography Tool created for encrypting and hiding your any files in Microsoft Office Documents(DOCX,PPTX,XLSX,DOTX,POTX,XLTX) or Open Documents(ODT,ODP,ODS).\nThe structure of the documents will be not violated! WARNING! If you will be changed encrypted document in MS Office or other office program then hidden encrypted information\nwill be vanished! Coded by LordAT1.')],[sg.Text('\n Support the project please.\n Monero:\n43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R')],[sg.Button("Copy Monero"),sg.Button("Close")]]
+                l=[[sg.Text('MS Steganography Tool created for encrypting and hiding your any files in Microsoft Office Documents(DOCX,PPTX,XLSX,DOTX,POTX,XLTX) or Open Documents(ODT,ODP,ODS).\nThe structure of the documents will be not violated! WARNING! If you will be changed encrypted document in MS Office or other office program then hidden encrypted information\nwill be vanished! Coded by LordAT1.')],[sg.Text('\n Support the project please.\n Monero:\n43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R')],[sg.Button("Copy Monero"),sg.Button("Close")]]
                 ab=sg.Window("About",l)
                 while True:  
                         try:
