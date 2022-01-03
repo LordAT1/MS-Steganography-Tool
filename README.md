@@ -1,7 +1,7 @@
 # MS-Steganography-Tool
 MS Steganography Tool created for encryption vs. hiding your data in Microsoft Office Documents. The structure of the documents will be not violated! WARNING! If you will be changed any data in encrypted document then hidden encrypted information will be vanished! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
 
-![зображення](https://user-images.githubusercontent.com/34070575/146655544-2c30d218-4f2e-47ba-8d03-225a8ae89937.png)
+![st](https://user-images.githubusercontent.com/34070575/147986451-d2d9d6ea-e469-4932-9fea-f150cbabae31.jpg)
 
 # Install for Windows Python3
 
@@ -23,7 +23,7 @@ start MSST.exe
 
 # Install for Linux Python3
 
-git clone https://github.com/LordAT1/MS-Stenography-Tool.git
+git clone https://github.com/LordAT1/MS-Steganography-Tool.git
 
 cd MS-Steganography-Tool
 
