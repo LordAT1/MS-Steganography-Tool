@@ -1,11 +1,11 @@
-# MS-Stenography-Tool
-MS Stenography Tool created for encryption vs. hiding your data in Microsoft Office Documents. The structure of the documents will be not violated! WARNING! If you will be changed any data in encrypted document then hidden encrypted information will be vanished! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
+# MS-Steganography-Tool
+MS Steganography Tool created for encryption vs. hiding your data in Microsoft Office Documents. The structure of the documents will be not violated! WARNING! If you will be changed any data in encrypted document then hidden encrypted information will be vanished! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
 
 ![зображення](https://user-images.githubusercontent.com/34070575/146655544-2c30d218-4f2e-47ba-8d03-225a8ae89937.png)
 
 # Install for Windows Python3
 
-cd MS-Stenography-Tool-main
+cd MS-Steganography-Tool-main
 
 python -m pip install -r requirements.txt
 
@@ -13,7 +13,7 @@ python MSST.py
 
 # Build exe for Windows Pyinstaller
 
-cd MS-Stenography-Tool-main
+cd MS-Steganography-Tool-main
 
 pyinstaller --onefile --windowed MSST.py
 
@@ -25,7 +25,7 @@ start MSST.exe
 
 git clone https://github.com/LordAT1/MS-Stenography-Tool.git
 
-cd MS-Stenography-Tool
+cd MS-Steganography-Tool
 
 python3 -m pip install -r requirements.txt
 
@@ -42,7 +42,7 @@ sudo apt-get install python3-tk
 
 # Build package for Linux Pyinstaller
 
-cd MS-Stenography-Tool
+cd MS-Steganography-Tool
 
 pyinstaller --onefile --windowed MSST.py
 
