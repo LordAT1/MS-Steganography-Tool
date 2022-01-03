@@ -15,7 +15,7 @@ python MSST.py
 
 cd MS-Stenography-Tool-main
 
-pyinstaller MSST.py -f
+pyinstaller --onefile --windowed MSST.py
 
 cd dist
 
@@ -44,7 +44,7 @@ sudo apt-get install python3-tk
 
 cd MS-Stenography-Tool
 
-pyinstaller MSST.py -P
+pyinstaller --onefile --windowed MSST.py
 
 cd dist
 
