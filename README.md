@@ -1,5 +1,5 @@
 # MS-Steganography-Tool
-MS Steganography Tool created for encryption vs. hiding your data in Microsoft Office Documents. The structure of the documents will be not violated! WARNING! If you will be changed any data in encrypted document then hidden encrypted information will be vanished! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
+MS Steganography Tool created for encryption and hiding your data in Microsoft Office Documents. The structure of the documents will be not violated! WARNING! If you change any data in encrypted document then hidden encrypted information will vanish! Support the project please. Monero: 43kpHUzR5otCHnqYJxDNz3S4uPBaKq6YCBwY4BtnCCABEhRpbbYud8nf4PCYbL2HxqgbzGQesJ13m4nPMbtZeuJW4cquM3R
 
 ![st](https://user-images.githubusercontent.com/34070575/147986451-d2d9d6ea-e469-4932-9fea-f150cbabae31.jpg)
 
